@@ -1,0 +1,18 @@
+# Local project settings
+.vs/
+
+ # Build
+bin/
+obj/
+
+# Authentication
+credentials.json
+
+# Logs
+logs/
+
+# Migrations
+Migrations/
+
+# Database
+DEA.db
