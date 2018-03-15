@@ -4,5 +4,5 @@
     <a href="https://github.com/vim2meta/DEA/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
 </div>
 
-# DEA
-The core control of a free-for-all discord server.
+# DEA2CS
+DEA2 Being made inside of C#
